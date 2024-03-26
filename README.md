@@ -12,6 +12,7 @@ Clone this repository to your local machine:
 `
 
 Navigate to the project directory:
+
 `cd stock-React-Task
 `
 
@@ -28,7 +29,10 @@ Once you have installed the dependencies, you can start the frontend application
 `npm run start
 `
 
-This command starts the development server and opens the application in your default web browser. You can now view the list of  stock on the frontend.
+This command starts the react app and opens the application in your default web browser with 
+`http://localhost:3000
+`  
+You can now view the list of  stock on the frontend.
 
 
 
